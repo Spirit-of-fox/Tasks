@@ -1,0 +1,1 @@
+//*[@id="table1"]/thead//span[(text()="Due")]/../../..//following-sibling::tbody//td[contains(text(), "100")]
